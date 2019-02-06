@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=1qLHZJ-XWdu-KAU6WtnxBGjAJ20kMNca'
-export_file_name = 'export.pkl'
+export_file_name = 'hockey.pkl'
 
 classes = ['ice_hockey', 'lacrosse', 'roller_hockey']
 path = Path(__file__).parent
